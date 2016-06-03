@@ -1,3 +1,5 @@
+var $ = require('jquery');
+
 $.ui.plugin.add("resizable", "alsoResizeReverse", {
 
     start: function() {
